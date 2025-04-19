@@ -10,7 +10,7 @@ Este proyecto utiliza técnicas de *machine learning* y procesamiento del lengua
 ## Requisitos
 Las dependencias del proyecto están listadas en `requirements.txt`. Para instalarlas, usa:
 
-## Autor
+### Autor
 
 Felipe Flórez
 
